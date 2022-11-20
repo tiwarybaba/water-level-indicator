@@ -1,17 +1,9 @@
 Code
 #include <LiquidCrystal.h>
-
- 
-
 #define trigger 10
-
 #define echo 11
-
 #define motor 8
-
 #define buzzer 12
-
- 
 
 LiquidCrystal lcd(7,6,5,4,3,2);
 
